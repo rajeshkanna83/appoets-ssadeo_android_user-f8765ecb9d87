@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "491493748108",
+    "firebase_url": "https://ssadeo-284216.firebaseio.com",
+    "project_id": "ssadeo-284216",
+    "storage_bucket": "ssadeo-284216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491493748108:android:c974d5edf1f86696ca3aa9",
+        "android_client_info": {
+          "package_name": "com.ssadeo.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491493748108-6bs5ql59r9bdajio6c6617b4vt83cb0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssadeo.driver",
+            "certificate_hash": "01c2b12398a6522a9f1d90392ce0560c7a1b5e03"
+          }
+        },
+        {
+          "client_id": "491493748108-d07g8ve6eqhslg32fqidubin79ccketg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwI66XQ2KEoJbsxVTsIGGG8uS_7KgvKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491493748108-d07g8ve6eqhslg32fqidubin79ccketg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491493748108-iiqa595sc3mr36tnpii5epjhptvk2v05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssadeo.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491493748108:android:be45c1df3a86da3cca3aa9",
+        "android_client_info": {
+          "package_name": "com.ssadeo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491493748108-ea7i95umecl62osn9lm73qvtjo14r17u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssadeo.user",
+            "certificate_hash": "01c2b12398a6522a9f1d90392ce0560c7a1b5e03"
+          }
+        },
+        {
+          "client_id": "491493748108-d07g8ve6eqhslg32fqidubin79ccketg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwI66XQ2KEoJbsxVTsIGGG8uS_7KgvKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491493748108-d07g8ve6eqhslg32fqidubin79ccketg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491493748108-iiqa595sc3mr36tnpii5epjhptvk2v05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssadeo.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
